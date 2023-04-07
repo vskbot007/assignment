@@ -1,12 +1,12 @@
 {
   "openapi": "3.0.0",
   "info": {
-    "title": "Snipe-IT v6 API",
-    "version": "6.0.10"
+    "title": "API",
+    "version": "6"
   },
   "servers": [
     {
-      "url": "http://snipe-it/api/v1"
+      "url": "^https?:\/\/[a-z0-9-]+(\.[a-z0-9-]+)*\/api\/v1$"
     }
   ],
   "components": {
