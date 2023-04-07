@@ -6,7 +6,7 @@
   },
   "servers": [
     {
-      "url": "^https?:\/\/[a-z0-9-]+(\.[a-z0-9-]+)*\/api\/v1$"
+      "url": "http://snipe-it/api/v1"
     }
   ],
   "components": {
